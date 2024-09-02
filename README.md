@@ -49,7 +49,8 @@
 </div>
 
 <div align="center">
-  
+
+<>
   # Reach me 📞
 
 </div>
@@ -85,6 +86,6 @@ If you need to get in touch with me for any reason whether you have a question, 
 </br>
 </br>
 </br>
--->
+<>
 
 *************
