@@ -7,7 +7,7 @@
 
   ### Things i like: 
   
-🎮 Valorant
+🎮 FIFA
 🎌 Anime
 🏐 Volleyball
 🎮 League of Legends
